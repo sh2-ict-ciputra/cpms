@@ -1,0 +1,1 @@
+<script src="{{ URL::asset('assets/global/plugins/datatables.helper/datatables_helper.js')}}"></script>

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/penerimaanbarangpo",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\PenerimaanBarangPO\\Providers\\PenerimaanBarangPOServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PenerimaanBarangPO\\": ""
+        }
+    }
+}

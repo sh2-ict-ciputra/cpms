@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/goodreceive",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\GoodReceive\\Providers\\GoodReceiveServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GoodReceive\\": ""
+        }
+    }
+}

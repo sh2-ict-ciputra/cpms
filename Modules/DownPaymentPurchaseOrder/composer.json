@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/downpaymentpurchaseorder",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\DownPaymentPurchaseOrder\\Providers\\DownPaymentPurchaseOrderServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DownPaymentPurchaseOrder\\": ""
+        }
+    }
+}

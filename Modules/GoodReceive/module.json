@@ -1,0 +1,16 @@
+{
+    "name": "GoodReceive",
+    "alias": "goodreceive",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\GoodReceive\\Providers\\GoodReceiveServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PenerimaanBarangPO",
+    "alias": "penerimaanbarangpo",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PenerimaanBarangPO\\Providers\\PenerimaanBarangPOServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

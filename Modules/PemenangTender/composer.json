@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/pemenangtender",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\PemenangTender\\Providers\\PemenangTenderServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PemenangTender\\": ""
+        }
+    }
+}

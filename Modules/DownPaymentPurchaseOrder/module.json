@@ -1,0 +1,16 @@
+{
+    "name": "DownPaymentPurchaseOrder",
+    "alias": "downpaymentpurchaseorder",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\DownPaymentPurchaseOrder\\Providers\\DownPaymentPurchaseOrderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
